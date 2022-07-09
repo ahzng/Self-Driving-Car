@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background: black;
+    overflow: hidden; /*auto also works*/
+    text-align: center; /*elements in body get centered relative to body*/
+}
+
+canvas {
+    background: gray;
+}
